@@ -1,4 +1,4 @@
-# Validaci-n-de-hip-tesis-de-neg-cio-con-pruebas-estad-sticas
+# Validacion-de-hipotesis-de-negocio-con-pruebas-estadisticas
 El objetivo de este proyecto es evaluar un experimento A/B realizado en una página de inicio (landing page) con versiónes A y B para apoyar una decisión de negocio basada en datos.
 En este proyecto ficticio mi rol es de analista de datos en el equipo de marketing digital de una empresa de ecommerce.
 Se ejecutó un experimento A/B en la página de inicio (landing page), comparando dos versiones (A y B) con el objetivo de mejorar la tasa de conversión y el valor económico por usuario.
